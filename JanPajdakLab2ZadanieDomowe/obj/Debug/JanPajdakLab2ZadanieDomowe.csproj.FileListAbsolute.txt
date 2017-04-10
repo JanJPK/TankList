@@ -1,0 +1,24 @@
+c:\users\jpk\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\bin\Debug\JanPajdakLab2ZadanieDomowe.exe.config
+c:\users\jpk\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\bin\Debug\JanPajdakLab2ZadanieDomowe.exe
+c:\users\jpk\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\bin\Debug\JanPajdakLab2ZadanieDomowe.pdb
+c:\users\jpk\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.csprojResolveAssemblyReference.cache
+c:\users\jpk\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.FormMain.resources
+c:\users\jpk\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.Properties.Resources.resources
+c:\users\jpk\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.csproj.GenerateResource.Cache
+c:\users\jpk\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.exe
+c:\users\jpk\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.pdb
+C:\Users\JPK\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.FormAddArmoredVehicle.resources
+C:\Users\JPK\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.FormAddTank.resources
+C:\Users\JPK\documents\visual studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.FormEditDescription.resources
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\bin\Debug\JanPajdakLab2ZadanieDomowe.exe.config
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\bin\Debug\JanPajdakLab2ZadanieDomowe.exe
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\bin\Debug\JanPajdakLab2ZadanieDomowe.pdb
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.csprojResolveAssemblyReference.cache
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.FormAddArmoredVehicle.resources
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.FormAddTank.resources
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.FormEditDescription.resources
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.FormMain.resources
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.Properties.Resources.resources
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.csproj.GenerateResource.Cache
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.exe
+H:\Garbage\Backup pre hitachi\Dokumenty\Visual Studio 2015\Projects\JanPajdakLab2ZadanieDomowe\JanPajdakLab2ZadanieDomowe\obj\Debug\JanPajdakLab2ZadanieDomowe.pdb

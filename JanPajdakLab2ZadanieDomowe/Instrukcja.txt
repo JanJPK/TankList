@@ -1,0 +1,18 @@
+﻿    0   dokończ zadanie konwencja etc
+
+    1   stworzyć forme do wyświetlania katalogu obiektów jakich tylko chcemy
+        datagridview
+        przycisk do dodawaniu nowego obiektu
+            pokazuje nowe okno dialogowe w którym wypełniamy textboxy do tworzenia obiektu
+            na dole przycisk ok i cancel, ok to dodaje
+            sprawdzanie czy wartosc wprowadzana jest ok
+            jaies miejsce do dodawania obrazka
+        przycisk do usuwania obiektu albo kilku zaznaczonych
+        przycisk do edycji informacji o obiekcie
+            tylko edytuj opis
+        przycisk pokaz informacje szczegolowe o obiekcie
+            wyswietla obrazek kontrolka image
+            i teskt w textboxie opisujacy np ten talerz zostal wykuty w gdzieśtam
+        przycisk zapisz liste do pliku i przycisk do wczytywania
+        
+    1*  drugi komplet przycisków dla klasy dziedziczącej
